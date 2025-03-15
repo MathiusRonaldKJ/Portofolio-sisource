@@ -1,0 +1,21 @@
+body {
+  background-color: #f8ffb7;
+  font-family: poppins;
+  min-height: 2000px;}
+.gambar {
+  width: 350px;
+  height: 350px;
+}
+.navbar{
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  background-color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+
+
+}
+.fe{
+  width: 120px;
+  height: 130px;
+}
